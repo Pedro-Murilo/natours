@@ -2,6 +2,7 @@
 A landing page created with SASS and using the most advanced CSS! 
 
 ## ✨ Final Project
+> Netlify: https://natours-pedro.netlify.app/
 ![Final project image](https://github.com/Pedro-Murilo/natours/blob/main/natours-img.png)
 
 ---
