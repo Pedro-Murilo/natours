@@ -1,9 +1,9 @@
 # 🍀 Natours
-A landing page created with SASS and using the most advanced CSS! 
+Application developed to tour in beautiful places!
 
 ## ✨ Final Project
 > Netlify: https://natours-pedro.netlify.app/
-![Final project image](https://github.com/Pedro-Murilo/natours/blob/main/natours-img.png)
+![Final project](https://github.com/Pedro-Murilo/natours/blob/main/natours-vid.gif)
 
 ---
 ### 📱 About
