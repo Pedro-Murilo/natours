@@ -3,7 +3,7 @@ Application developed to tour in beautiful places!
 
 ## ✨ Final Project
 > Netlify: https://natours-pedro.netlify.app/
-![Final project](https://github.com/Pedro-Murilo/natours/blob/main/natours-vid.gif)
+<p align="center"><img src="https://github.com/Pedro-Murilo/natours/blob/main/natours-vid.gif" alt="Final Project" /></p>
 
 ---
 ### 📱 About
